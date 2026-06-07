@@ -10,9 +10,9 @@ Este repositorio contiene el script estructurado `ConsultasSemana15-JC.sql` con 
 La solución fue desarrollada y ejecutada sobre el motor relacional **PostgreSQL**, utilizando **pgAdmin 4** como entorno de desarrollo principal.
 
 ### ¿Por qué PostgreSQL?
-* **Tipado Estricto:** Manejo nativo e impecable de estados booleanos (`true`/`false`) y datos temporales (`DATE`)[cite: 1, 2].
-* **Eficiencia en JOINS:** Excelente optimización del *Query Planner* para resolver consultas multilaterales complejas[cite: 1, 2].
-* **Cumplimiento ACID:** Garantía total de integridad en operaciones críticas como la gestión de `pagos` y `reservas`[cite: 1, 2].
+* **Tipado Estricto:** Manejo nativo e impecable de estados booleanos (`true`/`false`) y datos temporales (`DATE`)
+* **Eficiencia en JOINS:** Excelente optimización del *Query Planner* para resolver consultas multilaterales complejas
+* **Cumplimiento ACID:** Garantía total de integridad en operaciones críticas como la gestión de `pagos` y `reservas`
 
 ---
 
