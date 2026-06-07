@@ -1,4 +1,4 @@
-# 🐘 Proyecto: Gestión de Alojamientos Turísticos
+# 🐘 SEMANA 15: Gestión de Alojamientos Turísticos
 ### *Análisis, CRUD y JOINs en PostgreSQL*
 
 Este repositorio contiene el script estructurado `ConsultasSemana15-JC.sql` con las 20 consultas guiadas requeridas para la gestión de alquileres vacacionales[cite: 1, 2].
